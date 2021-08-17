@@ -4,7 +4,7 @@
 
 ## I'm a Grade 8 Student!!
 
-- 🤖 I have a multipurpose Discord bot: [Become A VS Code SuperHero!][alphabot]!
+- 🤖 I have a multipurpose Discord bot: [Check it Out][alphabot]!
 - 🌱 I’m currently learning Python and expanding my JavaScript knowledge 
 - 💬 "Coding is simply knowing where to paste copied code"
 - 🥅 Goal: Start development on an iOS application (and learn swift while at it)
