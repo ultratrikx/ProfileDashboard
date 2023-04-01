@@ -4,8 +4,8 @@
 
 ## I'm a Grade 9 Student!!
 
-- 🤖 I have a multipurpose Discord bot: [Check it Out][alphabot]!
-- 🌱 I’m currently learning Python and expanding my JavaScript knowledge 
+- 🤖 I made a multipurpose Discord bot: [Check it Out][alphabot]!
+- 🌱 I love engineering, photography and food! 
 - 💬 "Coding is simply knowing where to paste copied code"
 - 🥅 Goal: Start development on an iOS application (and learn swift while at it)
 - ⚡ Fun fact: I breathe air!!!
