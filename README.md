@@ -4,15 +4,15 @@
 
 ## I'm a Grade 9 Student!!
 
-- 🤖 I made a multipurpose Discord bot: [Check it Out][alphabot]!
+- 🤖 I made a multipurpose Discord bot: [Check it Out][alphabot]! (its deprecated now, rip)
 - 🌱 I love engineering, photography and food! 
-- 💬 "Coding is simply knowing where to paste copied code"
-- 🥅 Goal: Start development on an iOS application (and learn swift while at it)
-- ⚡ Fun fact: I breathe air!!!
+- 💬 "This is where an inspirational quote used to be"
+- 🥅 Goal: Get through school in 1-piece :skull:. Or start a business, whatever I feel like in the momement.
+- ⚡ Fun fact: [blank]
 
 ### Connect with me:
 
-
+[<img align="left" alt="@rohanht | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="ultratrikx | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="ultratrikx | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
@@ -36,12 +36,12 @@
 ---
 
 
-[website]: sfgsfd
+[website]: rohanth.me
 [course]: asdfasdf
 [alphabot]: https://github.com/ultratrikx/AlphaBot
 [twitter]: https://twitter.com/ultratrikx
 [youtube]: https://www.youtube.com/channel/UCGPzqxhR7Jg3s3X7Dp9prNQ
-[instagram]: https://instagram.com
+[instagram]: https://www.instagram.com/rohanht_/?hl=ur
 [vsc]: https://code.visualstudio.com/
 [html5]: https://en.wikipedia.org/wiki/HTML5
 [css]: https://en.wikipedia.org/wiki/CSS
