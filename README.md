@@ -37,7 +37,7 @@
 ---
 
 
-[website]: rohanth.me
+[website]: https://rohanth.me
 [course]: asdfasdf
 [alphabot]: https://github.com/ultratrikx/AlphaBot
 [twitter]: https://twitter.com/ultratrikx
