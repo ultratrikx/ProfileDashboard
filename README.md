@@ -4,17 +4,18 @@
 
 ## I'm a Grade 9 Student!!
 
-- 🤖 I made a multipurpose Discord bot: [Check it Out][alphabot]! (its deprecated now, rip)
+- 🤖 I made a multipurpose Discord bot: [Check it Out!][alphabot] (its deprecated now, rip)
 - 🌱 I love engineering, photography and food! 
 - 💬 "This is where an inspirational quote used to be"
-- 🥅 Goal: Get through school in 1-piece :skull:. Or start a business, whatever I feel like in the momement.
-- ⚡ Fun fact: [blank]
+- 🥅 Goal: Get through school in one piece :skull:. Or start a business, whatever I feel like in the momement.
+- ⚡ Fun fact: idek
 
 ### Connect with me:
 
-[<img align="left" alt="@rohanht | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="ultratrikx | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="ultratrikx | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="my website!" width="22px" src="https://www.svgrepo.com/show/294245/browser-website.svg" />][website]
+[<img align="left" alt="@rohanht | Instagram" width="22px" src="https://www.svgrepo.com/show/452229/instagram-1.svg" />][instagram]
+[<img align="left" alt="ultratrikx | YouTube" width="22px" src="https://www.svgrepo.com/show/448261/youtube.svg" />][youtube]
+[<img align="left" alt="ultratrikx | Twitter" width="22px" src="https://www.svgrepo.com/show/475689/twitter-color.svg" />][twitter]
 
 
 <br />
@@ -29,7 +30,7 @@
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://www.svgrepo.com/show/439171/github.svg" />][github]
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 
