@@ -2,7 +2,7 @@
 ### Hi there, I'm Rohanth 👋
 
 
-## I'm a Grade 9 Student!!
+## I'm a Grade 10 Student!!
 
 - 🤖 I made a multipurpose Discord bot: [Check it Out!][alphabot] (its deprecated now, rip)
 - 🌱 I love engineering, photography and food! 
