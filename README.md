@@ -12,7 +12,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="my website!" width="22px" src="https://www.svgrepo.com/show/294245/browser-website.svg" />][website]
 [<img align="left" alt="@rohanht | Instagram" width="22px" src="https://www.svgrepo.com/show/452229/instagram-1.svg" />][instagram]
 [<img align="left" alt="ultratrikx | YouTube" width="22px" src="https://www.svgrepo.com/show/448261/youtube.svg" />][youtube]
 [<img align="left" alt="ultratrikx | Twitter" width="22px" src="https://www.svgrepo.com/show/475689/twitter-color.svg" />][twitter]
