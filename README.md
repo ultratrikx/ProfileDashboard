@@ -8,7 +8,7 @@
 - 🌱 I love engineering, photography and food! 
 - 💬 "This is where an inspirational quote used to be"
 - 🥅 Goal: Get through school in one piece :skull:. Or start a business, whatever I feel like in the momement.
-- ⚡ Fun fact: I'm currently learning how to used no-code design tools @spline @framer
+- ⚡ Fun fact: I'm currently learning how to use no-code design tools @spline @framer
 
 ### Connect with me:
 [<img align="left" alt="rohanthmarem | linkedin" width="22px" src="https://www.svgrepo.com/show/448234/linkedin.svg" />][linkedin]
