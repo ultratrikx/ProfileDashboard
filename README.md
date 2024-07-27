@@ -7,8 +7,8 @@
 - 🤖 I made a multipurpose Discord bot: [Check it Out!][alphabot] (its deprecated now, rip)
 - 🌱 I love engineering, photography and food! 
 - 💬 "This is where an inspirational quote used to be"
-- 🥅 Goal: Get through school in one piece :skull:. Or start a business, whatever I feel like in the momement.
-- ⚡ Fun fact: I'm currently learning how to use no-code design tools @spline @framer
+- 🥅 Goal: Build things that are fun!
+- ⚡ Fun fact: I'm currently diving into the math and science behind neural networks!
 
 ### Connect with me:
 [<img align="left" alt="rohanthmarem | linkedin" width="22px" src="https://www.svgrepo.com/show/448234/linkedin.svg" />][linkedin]
