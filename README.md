@@ -1,15 +1,13 @@
 
 ### Hi there, I'm Rohanth 👋
 
-
-## I'm a Grade 11 Student!!
-
-- 🤖 I made a multipurpose Discord bot: [Check it Out!][alphabot] (its deprecated now, rip)
-- 🌱 I love engineering, photography and food! 
-- 💬 "This is where an inspirational quote used to be"
-- 🥅 Goal: Build things that are fun!
-- ⚡ Fun fact: I'm currently diving into the math and science behind neural networks!
-
+Currently working with Bloomberg and Town of Oakville to create climate technology and youth climate action with @Tensorforest.
+Building drones that map our environments and deriving key insights at low costs.
+  
+## My previous work
+- 🤖 Made a multipurpose Discord bot during COVID [Check it Out!][alphabot]
+- 🛸 Built many drones. Built an FPV drone with support from @hackclub.
+  
 ### Connect with me:
 [<img align="left" alt="rohanthmarem | linkedin" width="22px" src="https://www.svgrepo.com/show/448234/linkedin.svg" />][linkedin]
 [<img align="left" alt="rohanthmarem | Twitter" width="22px" src="https://www.svgrepo.com/show/475689/twitter-color.svg" />][twitter]
